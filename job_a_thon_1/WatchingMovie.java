@@ -1,5 +1,9 @@
 /*
-N people are standing in a row. A list heights[] of N positive integers is given to you, where the i-th integer represents the height of i-th person. There is a movie screen at the rightmost position of the row. The i-th person will be able to see the movie screen only if K persons, directly to the right side of the i-th person, have a height lesser than the height of i-th person. If there are less than K people to the right of the i-th person, then the height of all of them must be lesser than that of the i-th person.  
+N people are standing in a row. A list heights[] of N positive integers is given to you, where the i-th integer represents the height of i-th person.
+There is a movie screen at the rightmost position of the row. 
+The i-th person will be able to see the movie screen only if K persons, directly to the right side of the i-th person, 
+have a height lesser than the height of i-th person. If there are less than K people to the right of the i-th person, 
+then the height of all of them must be lesser than that of the i-th person.  
 
 You need to count the number of people who will be able to watch the movie.
 
